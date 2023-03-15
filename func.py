@@ -10,7 +10,7 @@ def neg(x):
     return - x
 
 def sqrt(x):
-    return x^(1/2)
+    return x**(1/2)
 
 def sub(x, y):
     return x - y
